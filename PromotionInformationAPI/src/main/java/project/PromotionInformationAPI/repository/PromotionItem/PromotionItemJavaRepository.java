@@ -1,11 +1,8 @@
 package project.PromotionInformationAPI.repository.PromotionItem;
 
 import org.springframework.stereotype.Repository;
-import project.PromotionInformationAPI.domain.entity.Promotion;
 import project.PromotionInformationAPI.domain.entity.PromotionItem;
-import project.PromotionInformationAPI.repository.Promotion.PromotionRepository;
 
-import java.time.LocalDate;
 import java.util.*;
 
 @Repository
